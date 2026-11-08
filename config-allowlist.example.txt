@@ -1,0 +1,4 @@
+# Copy this file to config-allowlist.txt and adapt it to the project root.
+# Entries must be relative to the root passed with --home.
+.github/agents/*.agent.md
+.github/prompts/*.prompt.md

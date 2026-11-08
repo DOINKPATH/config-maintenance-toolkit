@@ -1,0 +1,5 @@
+/config-allowlist.txt
+/config-audit.cron
+/.local/
+__pycache__/
+*.py[cod]
